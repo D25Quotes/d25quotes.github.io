@@ -1,7 +1,6 @@
 # About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
+This project is a quoteshub by d25quotes.
 # Demo:
-http://robertcedwards.github.io/gh-pages-theme/
 
 # License
 This program is free software: you can redistribute it and/or modify
